@@ -1,0 +1,8 @@
+{
+    "mongo": {
+        "connectionHost": "ds257668.mlab.com:57668",
+        "dbname": "ecomsite",
+        "dbuser":"admin",
+        "dbpassword" : "pass#1234"
+    }
+}

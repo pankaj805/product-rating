@@ -1,0 +1,37 @@
+{
+  "name": "product-rating",
+  "version": "1.0.0",
+  "description": "A sample application to implement simple product rating system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj805/product-rating.git"
+  },
+  "keywords": [
+    "ratings",
+    "sample",
+    "code",
+    "pankaj"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^3.2.4",
+    "express": "^4.16.4",
+    "pkmongo": "^1.0.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/register": "^7.0.0"
+  },
+  "author": "Pankaj Panigrahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj805/product-rating/issues"
+  },
+  "homepage": "https://github.com/pankaj805/product-rating#readme"
+}
