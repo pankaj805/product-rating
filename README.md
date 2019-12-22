@@ -65,9 +65,6 @@ A sample application to implement simple product rating system
 ```
 ```
 {
-    "_id": {
-        "$oid": "5dfef4bb7c213e6bf14e0a15"
-    },
     "id": 503,
     "name": "Hometown Armchair",
     "price": 80,
